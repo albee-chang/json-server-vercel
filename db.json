@@ -57,15 +57,7 @@
     },
     {
       "id": 13,
-      "number": "takeOut1"
-    },
-    {
-      "id": 14,
-      "number": "takeOut2"
-    },
-    {
-      "id": 15,
-      "number": "takeOut3"
+      "number": "takeOut"
     }
   ],
   "products": [
